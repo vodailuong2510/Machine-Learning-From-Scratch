@@ -1,5 +1,5 @@
 # Machine-Learning-From-Scratch
-#Introduction
+# Introduction
 Welcome to the "Machine Learning from Scratch" project! This project is created with the aim of helping me gain a deeper understanding of fundamental machine learning algorithms and how to implement them from scratch using Python.
 
 # Algorithms
